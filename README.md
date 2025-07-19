@@ -83,8 +83,6 @@ Or use a Jupyter Notebook to interactively view outputs.
 
 The code displays a training image and prints its corresponding label.
 
-<img width="840" height="840" alt="image" src="https://github.com/user-attachments/assets/cb27ce11-5a3a-40ea-b146-44bf731faa33" />
-
 ```python
 Label: Ankle boot
 ```
